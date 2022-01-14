@@ -1,0 +1,1 @@
+web: gunicorn cowrywiseTask.wsgi --log-file -
